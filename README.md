@@ -8,3 +8,6 @@
 # Rails7 and Vue3 with Docker Playground
 
 This is a playground project to test Rails 7 with Vue 3 using Vite Ruby and Docker.
+
+# TODO
+- [ ] Add file about docker
